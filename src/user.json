@@ -1,0 +1,35 @@
+[{
+    "name": "Cal Kestis",
+    "tag": "padavanjedy",
+    "location": "Coruscant , Corusca sector",
+    "avatar": "https://i.pinimg.com/originals/ab/b2/4a/abb24a4dd7296cb7bbc0eee33a73d457.jpg",
+    "stats": {
+      "followers": 8907,
+      "views": 9076,
+      "likes": 8000
+    }
+  },
+
+  {
+    "name": "Ashoka Tano",
+    "tag": "greyjedy",
+    "location": "Shili, Shili system",
+    "avatar": "https://cdnb.artstation.com/p/assets/images/images/026/091/311/large/alvaro-fernandez-gonzalez-ahsoka-tano.jpg?1587867955",
+    "stats": {
+      "followers": 9999,
+      "views": 9999,
+      "likes": 9999
+    }
+  },
+
+  {
+    "name": "Asajj Ventress",
+    "tag": "sithnomore",
+    "location": "Datomir, Datomir system",
+    "avatar": "https://i.pinimg.com/originals/34/a9/19/34a9193d0b385ebe47b755a4c37a7834.jpg",
+    "stats": {
+      "followers": 1601,
+      "views": 9854,
+      "likes": 1234
+    }
+  }]
