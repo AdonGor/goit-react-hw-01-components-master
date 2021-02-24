@@ -1,9 +1,5 @@
-import Container from "..//Container/Container";
+import Container from '..//Container/Container';
 
-const Layout = ({children}) => (
-    <>
-        <Container>{children}</Container>
-    </>
-);
+const Layout = ({ children }) => <Container>{children}</Container>;
 
 export default Layout;
